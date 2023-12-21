@@ -1,4 +1,4 @@
-![image](https://github.com/SelVord/Java_OOP_Project/assets/103207943/a81e74be-6930-4324-85a1-728ef276dfc6)# Java OOP Project
+# Java OOP Project
 
 Title of out project: Examination System
 
