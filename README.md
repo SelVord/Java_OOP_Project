@@ -27,7 +27,7 @@ Tagaibekov Baiastan
 Roles Of Group Members:
 
 Temirov Aktilek. Divided of tasks between team members. Wrote Java and SQL code.
-Zhaanbaev Atai. Also wrote Java and SQL. Also worked with Scene fxml.
+Zhaanbaev Atai. Also wrote Java and SQL. Also worked with fxml.
 Tagaibekov Baiastan. Also wrote Java and SQL. Worked on structure of project
 
 
