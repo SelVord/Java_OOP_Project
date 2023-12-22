@@ -7,14 +7,9 @@ With this application users can create an exam that others can take this exam. A
 
 
 Functions:
-Singup / Login
-Search exam by title / by Id
-Create new exam
-Add as many questions as user want
-Grading every question separately
-Automatically creating main grade depending on grades of every answer
-Being able to see grades of your answers
-Auto filling every ListView in all pages
+Time Management
+Secure User Authentication
+Flexible Questions
 
 
 Team Members list:
