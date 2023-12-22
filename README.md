@@ -7,9 +7,16 @@ With this application users can create an exam that others can take this exam. A
 
 
 Functions:
-Time Management
-Secure User Authentication
-Flexible Questions
+1. Time Management
+2. Secure User Authentication
+3. Flexible Questions
+4. Better Design
+5. Ready-made correct answers
+6. Separation of student, teacher and administrator access
+7. Account settings
+8. Passing the exam honestly
+9. Question generator
+10. 
 
 
 Team Members list:
